@@ -1,51 +1,59 @@
 [
 	{
-		"id": "com.ndm.tienganh",
-		"name": "Học tiếng Anh giao tiếp",
-		"link_icon": "icon_tagt.png",
-		"link_banner": "banner_tagt.png",
-		"link_app": "https://play.google.com/store/apps/details?id=com.ndm.tienganh",
-		"description": "Ứng dụng hỗ trợ học giao tiếp tiếp anh trực quan, hiệu quả, và không nhàm chán trên điện thoại thông minh"
-	},
-	{
-		"id": "com.bkit.congthuctienganh",
-		"name": "Công thức - Ngữ pháp tiếng Anh",
-		"link_icon": "icon_ctta.png",
-		"link_banner": "banner_ctta.png",
-		"link_app": "https://play.google.com/store/apps/details?id=com.bkit.congthuctienganh",
-		"description": "Ứng dụng giúp bạn tra cứu ngữ pháp tiếng Anh nhanh chóng trên điện thoại."
+		"id": "com.bkit.learnenglish",
+		"name": "تعلم المحادثة الانجليزية",
+		"link_icon": "ic_learn_english.png",
+		"link_banner": "banner_learn_english.png",
+		"link_app": "https://play.google.com/store/apps/details?id=com.bkit.learnenglish",
+		"description": "أفضل تطبيق تعلم اللغة الإنجليزية للمبتدئين"
 	},
 	{
 		"id": "com.bkit.learnenglishlockscreen",
-		"name": "Học tiếng Anh - English Lock Screen",
-		"link_icon": "icon_lock.png",
-		"link_banner": "banner_lock_screen.png",
+		"name": "ﺗﻌﻠﻢ ﺍﻟﻠﻐﺔ ﺍﻹﻧﺠﻠﻴﺰﻳﺔ ﻋﻠﻰ ﺷﺎﺷﺔ ﺍﻟﻘﻔﻞ",
+		"link_icon": "ic_english_lockscreen.png",
+		"link_banner": "banner_english_lockscreen.png",
 		"link_app": "https://play.google.com/store/apps/details?id=com.bkit.learnenglishlockscreen",
-		"description": "Giúp bạn học tiếng anh mỗi ngày ngay trên khoá màn hình (lock screen)."
+		"description": "ﺗﻌﻠﻢ ﺍﻟﻠﻐﺔ ﺍﻹﻧﺠﻠﻴﺰﻳﺔ ﻋﻠﻰ ﺷﺎﺷﺔ ﺍﻟﻘﻔﻞ"
 	},
 	{
-		"id": "ccom.ndm.englishlistening",
-		"name": "Luyện Nghe Tiếng Anh",
-		"link_icon": "icon_listen.png",
+		"id": "com.ndm.englishlistening",
+		"name": "ممارسة الاستماع الانجليزية",
+		"link_icon": "ic_listen.png",
 		"link_banner": "banner_listen.png",
 		"link_app": "https://play.google.com/store/apps/details?id=com.ndm.englishlistening",
-		"description": "Luyện nói tiếng Anh giao tiếp - Ứng dụng giúp bạn nâng cao kỹ năng nói tiếng Anh."
+		"description": "تساعدك على تحسين مهاراتك في الاستماع إلى اللغة الإنجليزية كل يوم"
 	},
 	{
 		"id": "com.bkit.englishpronounce",
-		"name": "Học Phát Âm Tiếng Anh Chuẩn",
-		"link_icon": "icon_pronounce.png",
+		"name": "نطق الانجليزية",
+		"link_icon": "ic_pronounce.png",
 		"link_banner": "banner_pronounce.png",
 		"link_app": "https://play.google.com/store/apps/details?id=com.bkit.englishpronounce",
-		"description": "Phát âm tiếng Anh chuẩn giúp bạn tự tin hơn trong giao tiếp, từ đó cải thiện trình độ tiếng Anh."
+		"description": "تعلم نطق اللغة الإنجليزية كلغة أصلية"
 		
 	}, 
 	{
-		"id": "com.bktranslator.anhviet",
-		"name": "Dịch Tiếng Anh",
-		"link_icon": "icon_dict_ta.png",
-		"link_banner": "banner_dich_ta.png",
-		"link_app": "https://play.google.com/store/apps/details?id=com.bktranslator.anhviet",
-		"description":"Ứng dụng hộ trợ dễ dàng việc dịch tiếng anh sang tiếng Anh sang tiếng Việt và từ tiếng Việt sang tiếng Anh."
+		"id": "com.multipletranslate",
+		"name": "التحدث والترجمة",
+		"link_icon": "ic_translate.png",
+		"link_banner": "banner_translate.png",
+		"link_app": "https://play.google.com/store/apps/details?id=com.multipletranslate",
+		"description":"التحدث والترجمة: المترجم بجميع اللغات"
+	},
+	{
+		"id": "com.falcon.antivirus",
+		"name": "مضاد الفيروسات المجاني",
+		"link_icon": "ic_antivirus.png",
+		"link_banner": "banner_antivirus.png",
+		"link_app": "https://play.google.com/store/apps/details?id=com.falcon.antivirus",
+		"description":"أفضل تطبيق مكافحة الفيروسات لالروبوت"
+	},
+	{
+		"id": "com.bkgame.blockpuzzle",
+		"name": "Block Puzzle Classic",
+		"link_icon": "ic_block_puzzle.png",
+		"link_banner": "banner_block_puzzle.png",
+		"link_app": "https://play.google.com/store/apps/details?id=com.bkgame.blockpuzzle",
+		"description":"Exciting addictive game"
 	}
 ]

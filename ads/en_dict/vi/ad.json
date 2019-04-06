@@ -5,7 +5,7 @@
 		"link_icon": "icon_tagt.png",
 		"link_banner": "banner_tagt.png",
 		"link_app": "https://play.google.com/store/apps/details?id=com.ndm.tienganh",
-		"description": "Ứng dụng hỗ trợ học giao tiếp tiếp anh trực quan, hiệu quả, và không nhàm chán trên điện thoại thông minh"
+		"description": "Phần mềm học tiếng Anh giao tiếp được yêu thích nhất với hơn  5 triệu người dùng"
 	},
 	{
 		"id": "com.bkit.congthuctienganh",
@@ -13,23 +13,23 @@
 		"link_icon": "icon_ctta.png",
 		"link_banner": "banner_ctta.png",
 		"link_app": "https://play.google.com/store/apps/details?id=com.bkit.congthuctienganh",
-		"description": "Ứng dụng giúp bạn tra cứu ngữ pháp tiếng Anh nhanh chóng trên điện thoại."
+		"description": "Tổng hợp ngữ pháp Tiếng Anh đầy đủ, khoa học, dễ dàng tra cứu"
 	},
 	{
 		"id": "com.bkit.learnenglishlockscreen",
-		"name": "Học tiếng Anh - English Lock Screen",
+		"name": "Học tiếng Anh trên Lock Screen",
 		"link_icon": "icon_lock.png",
 		"link_banner": "banner_lock_screen.png",
 		"link_app": "https://play.google.com/store/apps/details?id=com.bkit.learnenglishlockscreen",
-		"description": "Giúp bạn học tiếng anh mỗi ngày ngay trên khoá màn hình (lock screen)."
+		"description": "Vừa lười vừa bận vẫn giỏi tiếng Anh, mỗi lần mở khoá màn hình là bạn sẽ học được một cụm từ mới"
 	},
 	{
-		"id": "ccom.ndm.englishlistening",
+		"id": "com.ndm.englishlistening",
 		"name": "Luyện Nghe Tiếng Anh",
 		"link_icon": "icon_listen.png",
 		"link_banner": "banner_listen.png",
 		"link_app": "https://play.google.com/store/apps/details?id=com.ndm.englishlistening",
-		"description": "Luyện nói tiếng Anh giao tiếp - Ứng dụng giúp bạn nâng cao kỹ năng nói tiếng Anh."
+		"description": "Giúp bạn cải thiện khả năng nghe tiếng anh mỗi ngày, âm thanh chuẩn, hỗ trợ sub English và sub Việt"
 	},
 	{
 		"id": "com.bkit.englishpronounce",
@@ -37,7 +37,7 @@
 		"link_icon": "icon_pronounce.png",
 		"link_banner": "banner_pronounce.png",
 		"link_app": "https://play.google.com/store/apps/details?id=com.bkit.englishpronounce",
-		"description": "Phát âm tiếng Anh chuẩn giúp bạn tự tin hơn trong giao tiếp, từ đó cải thiện trình độ tiếng Anh."
+		"description": "Nói tiếng Anh chuẩn như người bản ngữ, học cách phát âm chuẩn"
 		
 	}, 
 	{
@@ -46,6 +46,6 @@
 		"link_icon": "icon_dict_ta.png",
 		"link_banner": "banner_dich_ta.png",
 		"link_app": "https://play.google.com/store/apps/details?id=com.bktranslator.anhviet",
-		"description":"Ứng dụng hộ trợ dễ dàng việc dịch tiếng anh sang tiếng Anh sang tiếng Việt và từ tiếng Việt sang tiếng Anh."
+		"description":"Dịch câu, dịch văn bản, tra từ mới."
 	}
 ]
