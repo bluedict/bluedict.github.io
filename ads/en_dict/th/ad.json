@@ -1,37 +1,44 @@
 [
-	
+	{
+		"id": "com.ndm.learnthaienglish",
+		"name": "เรียนภาษาอังกฤษเพื่อการสื่อสาร",
+		"link_icon": "ic_learn_english.png",
+		"link_banner": "banner_learn_english.png",
+		"link_app": "https://play.google.com/store/apps/details?id=com.ndm.learnthaienglish",
+		"description": "การสนับสนุนสำหรับการเรียนรู้ การวิจัย การเดินทาง การศึกษา การส่งออกแรงงาน "
+	},
 	{
 		"id": "com.ndm.englishlistening",
-		"name": "English Listening",
+		"name": "การฟังภาษาอังกฤษ",
 		"link_icon": "ic_listen.png",
 		"link_banner": "banner_listen.png",
 		"link_app": "https://play.google.com/store/apps/details?id=com.ndm.englishlistening",
-		"description": "Practice listening English effectively at all times"
+		"description": "ฝึกการฟังภาษาอังกฤษอย่างมีประสิทธิภาพตลอดเวลา"
 	},
 	{
 		"id": "com.bkit.englishpronounce",
-		"name": "English Pronunciation",
+		"name": "การออกเสียงภาษาอังกฤษ",
 		"link_icon": "ic_pronounce.png",
 		"link_banner": "banner_pronounce.png",
 		"link_app": "https://play.google.com/store/apps/details?id=com.bkit.englishpronounce",
-		"description": "Learn English pronunciation as a native speaker"
+		"description": "เรียนรู้การออกเสียงภาษาอังกฤษเป็นเจ้าของภาษา"
 		
 	}, 
 	{
 		"id": "com.multipletranslate",
-		"name": "Speak and Translate",
+		"name": "พูดและแปล",
 		"link_icon": "ic_translate.png",
 		"link_banner": "banner_translate.png",
 		"link_app": "https://play.google.com/store/apps/details?id=com.multipletranslate",
-		"description":"Speak and Translate: Translate all languages"
+		"description":"พูดและแปล: นักแปลทุกภาษา"
 	},
 	{
 		"id": "com.falcon.antivirus",
-		"name": "Free Antivirus",
+		"name": "โปรแกรมป้องกันไวรัสฟรี",
 		"link_icon": "ic_antivirus.png",
 		"link_banner": "banner_antivirus.png",
 		"link_app": "https://play.google.com/store/apps/details?id=com.falcon.antivirus",
-		"description":"The Best Antivirus Application for Android"
+		"description":"กำจัดไวรัส สแกนไวรัส กำจัดขยะ"
 	},
 	{
 		"id": "com.bkgame.blockpuzzle",
@@ -39,6 +46,6 @@
 		"link_icon": "ic_block_puzzle.png",
 		"link_banner": "banner_block_puzzle.png",
 		"link_app": "https://play.google.com/store/apps/details?id=com.bkgame.blockpuzzle",
-		"description":"Exciting addictive game"
+		"description":"เกมเสพติดที่น่าตื่นเต้น"
 	}
 ]

@@ -1,21 +1,29 @@
 [
 	
 	{
-<<<<<<< HEAD
+		"id": "com.ndm.learnenglish.korean",
+		"name": "영어회화 배우기",
+		"link_icon": "ic_learn_english.png",
+		"link_banner": "banner_learn_english.png",
+		"link_app": "https://play.google.com/store/apps/details?id=com.ndm.learnenglish.korean",
+		"description": "영어회화공부 프로그램은 스마트폰에서 영어회화를 직관적이고 효과적이고 재미있게 공부하는 데에 도움이 주는 프로그램입니다."
+	},
+
+	{
 		"id": "com.ndm.englishlistening",
-		"name": "English Listening",
+		"name": "영어 듣기",
 		"link_icon": "ic_listen.png",
 		"link_banner": "banner_listen.png",
 		"link_app": "https://play.google.com/store/apps/details?id=com.ndm.englishlistening",
-		"description": "Practice listening English effectively at all times"
+		"description": "영어를 효과적으로 듣는 연습"
 	},
 	{
 		"id": "com.bkit.englishpronounce",
-		"name": "English Pronunciation",
+		"name": "영어 발음",
 		"link_icon": "ic_pronounce.png",
 		"link_banner": "banner_pronounce.png",
 		"link_app": "https://play.google.com/store/apps/details?id=com.bkit.englishpronounce",
-		"description": "Learn English pronunciation as a native speaker"
+		"description": "원어민의 발음으로 영어 발음 배우기"
 		
 	}, 
 	{
@@ -24,15 +32,15 @@
 		"link_icon": "ic_translate.png",
 		"link_banner": "banner_translate.png",
 		"link_app": "https://play.google.com/store/apps/details?id=com.multipletranslate",
-		"description":"Speak and Translate: Translate all languages"
+		"description":"모든 언어 번역기"
 	},
 	{
 		"id": "com.falcon.antivirus",
-		"name": "Free Antivirus",
+		"name": "무료 바이러스 백신",
 		"link_icon": "ic_antivirus.png",
 		"link_banner": "banner_antivirus.png",
 		"link_app": "https://play.google.com/store/apps/details?id=com.falcon.antivirus",
-		"description":"The Best Antivirus Application for Android"
+		"description":"안드로이드에 대한 최고의 안티 바이러스 응용 프로그램"
 	},
 	{
 		"id": "com.bkgame.blockpuzzle",
@@ -40,15 +48,7 @@
 		"link_icon": "ic_block_puzzle.png",
 		"link_banner": "banner_block_puzzle.png",
 		"link_app": "https://play.google.com/store/apps/details?id=com.bkgame.blockpuzzle",
-		"description":"Exciting addictive game"
-=======
-		"id": "com.bkit.congthuctienganh",
-		"name": "Annyong ha se o",
-		"link_icon": "icon_ctta.png",
-		"link_banner": "banner_ctta.png",
-		"link_app": "https://play.google.com/store/apps/details?id=com.bkit.congthuctienganh",
-		"description": "Ứng dụng giúp bạn tra cứu ngữ pháp tiếng Anh nhanh chóng trên điện thoại."
->>>>>>> a493e8e3e92dee7cb49ee6e518d42546507ce9ba
+		"description":"흥미 진진한 중독성 게임"
 	}
 	
 ]
