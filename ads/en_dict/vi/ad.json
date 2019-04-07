@@ -8,6 +8,14 @@
 		"description": "Phần mềm học tiếng Anh giao tiếp được yêu thích nhất với hơn  5 triệu người dùng"
 	},
 	{
+		"id": "songchung.vn",
+		"name": "Songchung.vn",
+		"link_icon": "ic_songchung.png",
+		"link_banner": "banner_songchung.png",
+		"link_app": "https://songchung.vn/",
+		"description": "Quản lý chi tiêu phòng trọ, tiện dụng, minh bạch"
+	},
+	{
 		"id": "com.bkit.congthuctienganh",
 		"name": "Công thức - Ngữ pháp tiếng Anh",
 		"link_icon": "icon_ctta.png",
