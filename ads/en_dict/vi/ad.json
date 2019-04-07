@@ -12,8 +12,8 @@
 		"name": "Songchung.vn",
 		"link_icon": "ic_songchung.png",
 		"link_banner": "banner_songchung.png",
-		"link_app": "https://songchung.vn/",
-		"description": "Quản lý chi tiêu phòng trọ, tiện dụng, minh bạch"
+		"link_app": "https://songchung.vn/?source=bluedict",
+		"description": "Quản lý chi tiêu phòng trọ, tiện dụng, minh bạch, thông minh"
 	},
 	{
 		"id": "com.bkit.congthuctienganh",
