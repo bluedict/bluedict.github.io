@@ -1,0 +1,43 @@
+[
+	{
+		"id": "com.ndm.tienganh",
+		"name": "Học tiếng Anh giao tiếp",
+		"link_icon": "icon_tagt.png",
+		"link_banner": "banner_tagt.png",
+		"link_app": "https://itunes.apple.com/vn/app/h%E1%BB%8Dc-ti%E1%BA%BFng-anh-giao-ti%E1%BA%BFp-bkit/id1325098292?l=vi&mt=8",
+		"description": "Phần mềm học tiếng Anh giao tiếp được yêu thích nhất với hơn  5 triệu người dùng"
+	},
+	{
+		"id": "songchung.vn",
+		"name": "Songchung.vn",
+		"link_icon": "ic_songchung.png",
+		"link_banner": "banner_songchung.png",
+		"link_app": "https://songchung.vn/?source=bluedict",
+		"description": "Quản lý chi tiêu phòng trọ, tiện dụng, minh bạch, thông minh"
+	},
+	{
+		"id": "com.bkit.congthuctienganh",
+		"name": "Công thức - Ngữ pháp tiếng Anh",
+		"link_icon": "icon_ctta.png",
+		"link_banner": "banner_ctta.png",
+		"link_app": "https://itunes.apple.com/vn/app/c%C3%B4ng-th%E1%BB%A9c-ng%E1%BB%AF-ph%C3%A1p-ti%E1%BA%BFng-anh/id1398907757?l=vi",
+		"description": "Tổng hợp ngữ pháp Tiếng Anh đầy đủ, khoa học, dễ dàng tra cứu"
+	},
+	{
+		"id": "com.bkit.englishpronounce",
+		"name": "Học Phát Âm Tiếng Anh Chuẩn",
+		"link_icon": "icon_pronounce.png",
+		"link_banner": "banner_pronounce.png",
+		"link_app": "https://itunes.apple.com/vn/app/ph%C3%A1t-%C3%A2m-ti%E1%BA%BFng-anh/id1407306773?l=vi&mt=8",
+		"description": "Nói tiếng Anh chuẩn như người bản ngữ, học cách phát âm chuẩn"
+		
+	}, 
+	{
+		"id": "com.bktranslator.anhviet",
+		"name": "Dịch Tiếng Anh",
+		"link_icon": "icon_dict_ta.png",
+		"link_banner": "banner_dich_ta.png",
+		"link_app": "https://itunes.apple.com/vn/app/d%E1%BB%8Bch-ti%E1%BA%BFng-anh-d%E1%BB%8Bch-anh-vi%E1%BB%87t/id1294059895?l=vi&mt=8",
+		"description":"Dịch câu, dịch văn bản, tra từ mới."
+	}
+]

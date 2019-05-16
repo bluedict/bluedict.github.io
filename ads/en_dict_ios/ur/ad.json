@@ -1,0 +1,22 @@
+[
+	
+	
+	{
+		"id": "com.bkit.englishpronounce",
+		"name": "English Pronunciation",
+		"link_icon": "ic_pronounce.png",
+		"link_banner": "banner_pronounce.png",
+		"link_app": "https://itunes.apple.com/vn/app/ph%C3%A1t-%C3%A2m-ti%E1%BA%BFng-anh/id1407306773?l=vi&mt=8",
+		"description": "Learn English pronunciation as a native speaker"
+		
+	}, 
+	
+	{
+		"id": "com.bkgame.blockpuzzle",
+		"name": "Block Puzzle Classic",
+		"link_icon": "ic_block_puzzle.png",
+		"link_banner": "banner_block_puzzle.png",
+		"link_app": "https://itunes.apple.com/vn/app/x%E1%BA%BFp-h%C3%ACnh-x%E1%BA%BFp-g%E1%BA%A1ch-%C4%91%E1%BA%B7t-g%E1%BA%A1ch/id1450490598?l=vi",
+		"description":"Exciting addictive game"
+	}
+]
