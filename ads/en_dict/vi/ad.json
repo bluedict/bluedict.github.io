@@ -57,12 +57,13 @@
 		"description": "Game Bắng Trứng Khủng Long 2019 giúp bạn thư giãn vui vẻ sau những giờ học tập làm việc căng thẳng"
 		
 	}, 
+
 	{
-		"id": "com.bktranslator.anhviet",
-		"name": "Dịch Tiếng Anh",
-		"link_icon": "icon_dict_ta.png",
-		"link_banner": "banner_dich_ta.png",
-		"link_app": "https://play.google.com/store/apps/details?id=com.bktranslator.anhviet",
-		"description":"Dịch câu, dịch văn bản, tra từ mới."
+		"id": "facebook.com",
+		"name": "Like BlueDict trên Facebook",
+		"link_icon": "icon_fb.png",
+		"link_banner": "banner_fb.png",
+		"link_app": "https://www.facebook.com/bluedict.net",
+		"description":"Like page để được hỗ trợ, hỏi đáp trực tiếp. Cập nhật tin tức mới nhất về sản phẩm và thủ thuật, mẹo học tiếng Anh"
 	}
 ]

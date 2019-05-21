@@ -33,11 +33,28 @@
 		
 	}, 
 	{
+		"id": "com.bkit.englishpronounce",
+		"name": "Luyện Nghe Tiếng Anh",
+		"link_icon": "icon_listen.png",
+		"link_banner": "banner_listen.png",
+		"link_app": "https://itunes.apple.com/vn/app/luy%E1%BB%87n-nghe-ti%E1%BA%BFng-anh-c%C3%B3-l%E1%BB%9Di/id1464314527?l=vi",
+		"description": "Luyện nói tiếng Anh có sub, dễ nghe dễ học."
+		
+	},
+	{
 		"id": "com.bktranslator.anhviet",
 		"name": "Dịch Tiếng Anh",
 		"link_icon": "icon_dict_ta.png",
 		"link_banner": "banner_dich_ta.png",
 		"link_app": "https://itunes.apple.com/vn/app/d%E1%BB%8Bch-ti%E1%BA%BFng-anh-d%E1%BB%8Bch-anh-vi%E1%BB%87t/id1294059895?l=vi&mt=8",
 		"description":"Dịch câu, dịch văn bản, tra từ mới."
+	},
+	{
+		"id": "facebook.com",
+		"name": "Like BlueDict trên Facebook",
+		"link_icon": "icon_fb.png",
+		"link_banner": "banner_fb.png",
+		"link_app": "https://www.facebook.com/bluedict.net",
+		"description":"Like page để được hỗ trợ, hỏi đáp trực tiếp. Cập nhật tin tức mới nhất về sản phẩm và thủ thuật, mẹo học tiếng Anh"
 	}
 ]
