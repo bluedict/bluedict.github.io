@@ -63,7 +63,7 @@
 		"name": "Like BlueDict trên Facebook",
 		"link_icon": "icon_fb.png",
 		"link_banner": "banner_fb.png",
-		"link_app": "https://www.facebook.com/bluedict.net",
+		"link_app": "fb://facewebmodal/f?href=https://www.facebook.com/bluedict.net",
 		"description":"Like page để được hỗ trợ, hỏi đáp trực tiếp. Cập nhật tin tức mới nhất về sản phẩm và thủ thuật, mẹo học tiếng Anh"
 	}
 ]
