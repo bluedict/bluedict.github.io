@@ -16,14 +16,6 @@
 		"description": "Quản lý chi tiêu phòng trọ, tiện dụng, minh bạch, thông minh"
 	},
 	{
-		"id": "com.bkit.congthuctienganh",
-		"name": "Công thức - Ngữ pháp tiếng Anh",
-		"link_icon": "icon_ctta.png",
-		"link_banner": "banner_ctta.png",
-		"link_app": "https://play.google.com/store/apps/details?id=com.bkit.congthuctienganh",
-		"description": "Tổng hợp ngữ pháp Tiếng Anh đầy đủ, khoa học, dễ dàng tra cứu"
-	},
-	{
 		"id": "com.bkit.learnenglishlockscreen",
 		"name": "Học tiếng Anh trên Lock Screen",
 		"link_icon": "icon_lock.png",
@@ -59,11 +51,11 @@
 	}, 
 
 	{
-		"id": "facebook.com",
-		"name": "Like BlueDict trên Facebook",
-		"link_icon": "icon_fb.png",
-		"link_banner": "banner_fb.png",
-		"link_app": "fb://page/326743354658625",
-		"description":"Like page để được hỗ trợ, hỏi đáp trực tiếp. Cập nhật tin tức mới nhất về sản phẩm và thủ thuật, mẹo học tiếng Anh"
+		"id": "moviee.vn",
+		"name": "Review Phim, Tin tức điện ảnh",
+		"link_icon": "moviee.png",
+		"link_banner": "moviee.png",
+		"link_app": "fb://page/382906929222732",
+		"description":"Theo gõi Moviee.vn để cập nhật các bộ phim mới nhất và tin tức điển ảnh."
 	}
 ]
