@@ -8,14 +8,6 @@
 		"description": "Phần mềm học tiếng Anh giao tiếp được yêu thích nhất với hơn  5 triệu người dùng"
 	},
 	{
-		"id": "songchung.vn",
-		"name": "Songchung.vn",
-		"link_icon": "ic_songchung.png",
-		"link_banner": "banner_songchung.png",
-		"link_app": "https://songchung.vn/?source=bluedict",
-		"description": "Quản lý chi tiêu phòng trọ, tiện dụng, minh bạch, thông minh"
-	},
-	{
 		"id": "com.bkit.learnenglishlockscreen",
 		"name": "Học tiếng Anh trên Lock Screen",
 		"link_icon": "icon_lock.png",
@@ -49,7 +41,6 @@
 		"description": "Game Bắng Trứng Khủng Long 2019 giúp bạn thư giãn vui vẻ sau những giờ học tập làm việc căng thẳng"
 		
 	}, 
-
 	{
 		"id": "moviee.vn",
 		"name": "Review Phim, Tin tức điện ảnh",
@@ -57,5 +48,22 @@
 		"link_banner": "moviee.png",
 		"link_app": "fb://page/382906929222732",
 		"description":"Theo gõi Moviee.vn để cập nhật các bộ phim mới nhất và tin tức điển ảnh."
+	},
+	{
+		"id": "dich24.com",
+		"name": "Dịch thuật trực tuyến với chuyên gia",
+		"link_icon": "ic_dich24.png",
+		"link_banner": "banner_dich24.png",
+		"link_app": "http://dich24.com/?source=bluedict",
+		"description":"Đăng kí ngay để nhận được 10.000 VND dùng thử miễn phí."
+	},
+
+	{
+		"id": "dich242.com",
+		"name": "Dịch thuật trực tuyến với chuyên gia",
+		"link_icon": "ic_dich24.png",
+		"link_banner": "banner_dich24.png",
+		"link_app": "http://dich24.com/?source=bluedict",
+		"description":"Đăng kí ngay để nhận được 10.000 VND dùng thử miễn phí."
 	}
 ]
