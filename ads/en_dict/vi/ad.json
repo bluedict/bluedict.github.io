@@ -48,22 +48,6 @@
 		"link_banner": "moviee.png",
 		"link_app": "fb://page/382906929222732",
 		"description":"Theo gõi Moviee.vn để cập nhật các bộ phim mới nhất và tin tức điển ảnh."
-	},
-	{
-		"id": "dich24.com",
-		"name": "Dịch thuật trực tuyến với chuyên gia",
-		"link_icon": "ic_dich24.png",
-		"link_banner": "banner_dich24.png",
-		"link_app": "http://dich24.com/?source=bluedict",
-		"description":"Đăng kí ngay để nhận được 10.000 VND dùng thử miễn phí."
-	},
-
-	{
-		"id": "dich242.com",
-		"name": "Dịch thuật trực tuyến với chuyên gia",
-		"link_icon": "ic_dich24.png",
-		"link_banner": "banner_dich24.png",
-		"link_app": "http://dich24.com/?source=bluedict",
-		"description":"Đăng kí ngay để nhận được 10.000 VND dùng thử miễn phí."
 	}
+	
 ]
